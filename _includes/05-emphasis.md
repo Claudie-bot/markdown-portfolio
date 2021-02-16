@@ -1,0 +1,2 @@
+- *funny*
+- __smart__
